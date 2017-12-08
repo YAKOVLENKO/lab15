@@ -1,0 +1,7 @@
+/home/user1/YAKOVLENKO/workspace/projects/lab15/_builds/CMakeFiles/install.dir
+/home/user1/YAKOVLENKO/workspace/projects/lab15/_builds/CMakeFiles/list_install_components.dir
+/home/user1/YAKOVLENKO/workspace/projects/lab15/_builds/CMakeFiles/rebuild_cache.dir
+/home/user1/YAKOVLENKO/workspace/projects/lab15/_builds/CMakeFiles/main.dir
+/home/user1/YAKOVLENKO/workspace/projects/lab15/_builds/CMakeFiles/edit_cache.dir
+/home/user1/YAKOVLENKO/workspace/projects/lab15/_builds/CMakeFiles/install/strip.dir
+/home/user1/YAKOVLENKO/workspace/projects/lab15/_builds/CMakeFiles/install/local.dir
